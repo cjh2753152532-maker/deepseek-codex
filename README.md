@@ -1,6 +1,8 @@
 # DeepSeek API for Codex（Windows）
 
-[下载 Windows 安装器](https://github.com/cjh2753152532-maker/deepseek-codex/releases/latest)
+[下载 Windows 安装器（v1.0.0）](downloads/v1.0.0/DeepSeekForCodex.Setup.exe?raw=1)
+
+安装器为本地编译的未签名 EXE。SHA-256 `b2d0a33a1bcc3d9468ae7b87800d383742376d3a484fc2738a05c1d43460775b`。
 
 双击 `DeepSeekForCodex.Setup.exe`，填写 DeepSeek 开放平台的 API 密钥，点击 **保存并安装**。安装器会查找 Windows 版 Codex 的 `codex.exe`，也可以手动浏览选择。使用 **验证密钥** 会查询 DeepSeek 的模型列表，无需发起文本生成请求。
 
