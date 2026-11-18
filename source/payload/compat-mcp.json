@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "deepseek": {
+      "type": "stdio",
+      "command": "${PLUGIN_ROOT}/bin/DeepSeekMcp.exe",
+      "cwd": "${PLUGIN_ROOT}"
+    }
+  }
+}

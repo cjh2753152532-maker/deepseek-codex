@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ask DeepSeek"
+  short_description: "Use DeepSeek and see token usage"
+policy:
+  allow_implicit_invocation: false
